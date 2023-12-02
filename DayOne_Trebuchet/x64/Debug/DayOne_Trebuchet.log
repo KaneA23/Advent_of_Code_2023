@@ -1,3 +1,0 @@
-﻿  Main.cpp
-E:\GameJams\Advent_of_Code_2023\DayOne_Trebuchet\Main.cpp(58,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  DayOne_Trebuchet.vcxproj -> E:\GameJams\Advent_of_Code_2023\x64\Debug\DayOne_Trebuchet.exe

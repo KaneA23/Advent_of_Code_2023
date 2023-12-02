@@ -5,11 +5,6 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Advent_of_Code_2023", "Advent_of_Code_2023.vcxproj", "{AD2C1669-DDA9-462E-B39B-63B0E55A4FFB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DayOne_Trebuchet", "DayOne_Trebuchet\DayOne_Trebuchet.vcxproj", "{B6952345-E280-4D2B-B77B-EDCBBF343A89}"
-	ProjectSection(ProjectDependencies) = postProject
-		{AD2C1669-DDA9-462E-B39B-63B0E55A4FFB} = {AD2C1669-DDA9-462E-B39B-63B0E55A4FFB}
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -26,14 +21,6 @@ Global
 		{AD2C1669-DDA9-462E-B39B-63B0E55A4FFB}.Release|x64.Build.0 = Release|x64
 		{AD2C1669-DDA9-462E-B39B-63B0E55A4FFB}.Release|x86.ActiveCfg = Release|Win32
 		{AD2C1669-DDA9-462E-B39B-63B0E55A4FFB}.Release|x86.Build.0 = Release|Win32
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Debug|x64.ActiveCfg = Debug|x64
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Debug|x64.Build.0 = Debug|x64
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Debug|x86.ActiveCfg = Debug|Win32
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Debug|x86.Build.0 = Debug|Win32
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Release|x64.ActiveCfg = Release|x64
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Release|x64.Build.0 = Release|x64
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Release|x86.ActiveCfg = Release|Win32
-		{B6952345-E280-4D2B-B77B-EDCBBF343A89}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
